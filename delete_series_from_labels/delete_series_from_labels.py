@@ -3,7 +3,7 @@ import os
 import dotenv
 import pyorthanc
 from pyorthanc import find_studies
-from urllib3.exceptions import HTTPError
+from httpx import HTTPError
 
 dotenv.load_dotenv('.env')
 
