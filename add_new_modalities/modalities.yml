@@ -1,0 +1,9 @@
+DICOM_2:
+  AET: DICOM_2
+  Host: 192.168.1.2
+  Port: 4243
+
+DICOM_3:
+  AET: DICOM_2
+  Host: 192.168.1.2
+  Port: 4243
